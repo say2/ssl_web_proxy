@@ -1,0 +1,2 @@
+V	20240227000000Z		01	unknown	/C=KR/CN=naver.com
+V	20240227000000Z		02	unknown	/C=KR/CN=google.com
